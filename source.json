@@ -1,7 +1,7 @@
 {
     "name":"bigibas123 VCC",
     "id":"tk.dingemans.bigibas123.vcc-listing",
-    "url":"https://bigibas123.github.io/index.json",
+    "url":"https://bigibas123.github.io/VCC/index.json",
     "author":{
         "email":"bigibas123@users.noreply.github.com. ",
         "name":"bigibas123",
@@ -9,7 +9,7 @@
     },
     "description":"Bigibas123s VCC Listing",
     "infoLink":{
-        "url":"https://github.com/bigibas123/bigibas123.github.io",
+        "url":"https://github.com/bigibas123/VCC",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
