@@ -1,28 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"bigibas123 VCC",
+    "id":"tk.dingemans.bigibas123.vcc-listing",
+    "url":"https://bigibas123.github.io/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"bigibas123@users.noreply.github.com. ",
+        "name":"bigibas123",
+        "url":"https://github.com/bigibas123"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Bigibas123s VCC Listing",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/bigibas123/bigibas123.github.io",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "bigibas123/tk.dingemans.bigibas123.ndmfvrcfreorder"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
