@@ -1,13 +1,13 @@
 {
-    "name":"bigibas123 VCC",
+    "name":"bigibas123",
     "id":"tk.dingemans.bigibas123.vcc-listing",
     "url":"https://bigibas123.github.io/VCC/index.json",
     "author":{
-        "email":"bigibas123@users.noreply.github.com. ",
+        "email":"bigibas123@users.noreply.github.com",
         "name":"bigibas123",
         "url":"https://github.com/bigibas123"
     },
-    "description":"Bigibas123s VCC Listing",
+    "description":"Bigibas123's VCC Listing",
     "infoLink":{
         "url":"https://github.com/bigibas123/VCC",
         "text":"View on GitHub"
