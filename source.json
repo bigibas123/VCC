@@ -22,5 +22,14 @@
         "bigibas123/Toys",
         "REDSIM/VRCLightVolumes"
     ],
-    "packages":[]
+    "packages":[
+        {
+            "name":"at.pimaker.animatorasvisual",
+            "releases":[
+                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.2.zip?",
+                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.1.zip?",
+                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.0.zip?"
+            ]
+        }
+    ]
 }
