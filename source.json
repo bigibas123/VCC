@@ -19,18 +19,8 @@
         "bigibas123/LogoAssets",
         "bigibas123/MaterialDedup",
         "bigibas123/lygia-vcc",
-        "bigibas123/Toys",
-        "REDSIM/VRCLightVolumes"
+        "bigibas123/Toys"
     ],
     "packages":[
-        {
-            "name":"at.pimaker.animatorasvisual",
-            "releases":[
-                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.3.zip?",
-                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.2.zip?",
-                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.1.zip?",
-                "https://vpm.pimaker.at/downloads/at.pimaker.ltcgi_1.6.0.zip?"
-            ]
-        }
     ]
 }
